@@ -7,23 +7,21 @@ In this term project, we use visulization ways for our data analysis, also we us
 2. For python2 user use
 ```
 python -m twitterstream3.py
-python -m Database_data_preprocessing.py
 ```
 
 3. For python3 user use
 ```
 python3 -m twitterstream3.py
-python3 -m Database_data_preprocessing.py
 ```
 
 #### Database & Data Preprocessing Part
 1. For  python2 user use
 ```
-python -m database.py
+python -m Database_data_preprocessing.py
 ```
 2. For  python3 user use
 ```
-python3 -m database.py
+python3 -m Database_data_preprocessing.py
 ```
 #### First Website Part
 1. input google maps API API at website/index.html line 26.

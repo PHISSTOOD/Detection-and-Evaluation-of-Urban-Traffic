@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "~1.1.0",
-    "mongoose": "^4.2.6",
+    "mongoose": "^5.7.5",
     "node-jsx": "~0.12.4",
     "react": "~0.14.6",
     "socket.io": "^1.1.0",

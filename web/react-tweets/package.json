@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "~1.1.0",
+    "express-handlebars": "~1.2.2",
     "mongoose": "^4.2.6",
     "node-jsx": "~0.12.4",
     "react": "~0.14.6",
@@ -21,7 +21,7 @@
     "twitter": "^1.2.0"
   },
   "devDependencies": {
-    "browserify": "~6.0.3",
+    "browserify": "~17.0.0",
     "nodemon": "^1.2.1",
     "reactify": "~1.1.1",
     "uglify-js": "~2.4.15",

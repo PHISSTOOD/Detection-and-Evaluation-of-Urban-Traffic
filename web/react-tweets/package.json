@@ -12,7 +12,7 @@
   "author": "Ken Wheeler",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "~1.1.0",
     "mongoose": "^4.2.6",
     "node-jsx": "~0.12.4",
